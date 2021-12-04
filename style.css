@@ -1,0 +1,37 @@
+
+body{
+    font-family: fantasy;
+    background: aquamarine;
+}
+.header{
+    background: aqua;
+    color: blue;
+}
+.header p{
+    font-family:cursive;
+    color: chartreuse;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+button{
+    font-family: monospace;
+    margin-top: 30px;
+    width: 130px;
+    height: 50px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.footer{
+    position: fixed;
+    color: greenyellow;
+    background-color: lime;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px yellowgreen;
+}
+
+
